@@ -1,0 +1,1 @@
+This repo serves as a proof of all the tasks i have done for python internship.
